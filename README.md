@@ -17,13 +17,16 @@ This project aims to create a simplified interface for an ERP (Enterprise Resour
 
 ***
 ## Screenshots
-![Screenshot 2023-07-25 210844](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/StudyNotion/Screenshot1.png)
-![Screenshot 2023-07-25 211309](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/StudyNotion/Screenshot3.png)
+![Screenshot 2023-07-25 210844](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/ENTNT%20Assignment/Assign1.png)
+![Screenshot 2023-07-25 211309](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/ENTNT%20Assignment/Assign2.png)
+![Screenshot 2023-07-25 211319](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/ENTNT%20Assignment/Assign3.png)
+![Screenshot 2023-07-25 211329](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/ENTNT%20Assignment/Assign4.png)
 <details>
   <summary>More screenshots</summary>
   
-![Screenshot 2023-07-25 211451](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/StudyNotion/Screenshot2.png)
-![image](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/StudyNotion/Screenshot4.png)
+![Screenshot 2023-07-25 211451](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/ENTNT%20Assignment/Assign5.png)
+![Screenshot 2023-07-25 211461](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/ENTNT%20Assignment/Assign6.png)
+![image](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/ENTNT%20Assignment/Assign7.png)
 </details>
 
 ***
