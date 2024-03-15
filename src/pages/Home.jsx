@@ -8,13 +8,12 @@ const Home = () => {
         <section className="row bg-gray-100 px-16 py-16">
           <div className="container grid grid-cols-1 justify-between lg:grid-cols-2 gap-8 items-center">
             <div className="hero-content text-center lg:text-left">
-              <p className="mb-6 lg:mb-12">We are the World Best IT Company</p>
-              <h1 className="text-4xl lg:text-5xl font-bold mb-4">Welcome to Domex Technical</h1>
+              <p className="mb-6 lg:mb-12">We are the World Best E-Commerce Company</p>
+              <h1 className="text-4xl lg:text-5xl font-bold mb-4">Welcome to SansMart</h1>
               <p className="mb-8 lg:mb-12">
-                Are you ready to take your business to the next level with
-                cutting-edge IT solutions? Look no further! At Domex Technical,
-                we specialize in providing innovative IT services and solutions
-                tailored to meet your unique needs.
+                Discover endless possibilities at our eCommerce haven, where quality meets convenience. 
+                Shop with confidence for all your needs, from fashion to electronics. Experience seamless
+                transactions and exceptional customer service. Welcome to the future of online shopping.
               </p>
               <div className="flex flex-wrap justify-center lg:justify-start">
                 <a href="/contact">
