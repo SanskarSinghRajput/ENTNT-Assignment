@@ -30,7 +30,11 @@ const Navbar = () => {
               <NavLink to="/" className="text-white">Home</NavLink>
             </li>
             <li className="hidden sm:inline">
-              <NavLink to="#" className="text-white">Cart</NavLink>
+              <NavLink to="/cart" className="text-white">Cart</NavLink>
+            </li>
+            
+            <li className="hidden sm:inline">
+              <NavLink to="/dashboard" className="text-white">DashBoard</NavLink>
             </li>
             <li className="hidden sm:inline">
               <NavLink to="/addproduct" className="text-white">AddItem</NavLink>

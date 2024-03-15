@@ -1,9 +1,10 @@
 import React from 'react';
+import Shop from './Shop';
 
 const Home = () => {
   return (
     <>
-      <main>
+      <main className='mb-6'>
         <section className="row bg-gray-100 px-16 py-16">
           <div className="container grid grid-cols-1 justify-between lg:grid-cols-2 gap-8 items-center">
             <div className="hero-content text-center lg:text-left">
@@ -30,6 +31,7 @@ const Home = () => {
             </div>
           </div>
         </section>
+        <Shop />
       </main>
     </>
   );

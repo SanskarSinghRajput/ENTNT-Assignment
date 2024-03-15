@@ -46,7 +46,7 @@ const AddProduct = () => {
         setDescription("");
         setCategory("");
         setStock("");
-      } 
+      }
     } catch (error) {
       console.error("Error creating product:", error);
     } finally {
@@ -55,12 +55,9 @@ const AddProduct = () => {
   };
 
   return (
-    <div className="flex justify-center">
-      <div className="max-w-md w-full p-6">
-        <form
-          className="space-y-4"
-          onSubmit={createProductSubmitHandler}
-        >
+    <div className="m-6 flex justify-center">
+      <div className="max-w-md w-full p-6 bg-slate-100 rounded-lg">
+        <form className="space-y-4 " onSubmit={createProductSubmitHandler}>
           <h1 className="text-2xl font-bold text-center">Create Product</h1>
 
           <div className="flex items-center space-x-2">
@@ -125,6 +122,15 @@ const AddProduct = () => {
             />
           </div>
 
+          <div id="createProductFormFile">
+            <input
+              type="file"
+              name="avatar"
+              accept="image/*"
+              multiple
+            />
+          </div>
+
           <button
             type="submit"
             disabled={loading}
@@ -139,4 +145,3 @@ const AddProduct = () => {
 };
 
 export default AddProduct;
-
