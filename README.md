@@ -15,6 +15,19 @@ This project aims to create a simplified interface for an ERP (Enterprise Resour
 - Implement navigation between different sections of the ERP system using React Router.
 - Create a responsive design suitable for both desktop and mobile devices.
 
+***
+## Screenshots
+![Screenshot 2023-07-25 210844](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/StudyNotion/Screenshot1.png)
+![Screenshot 2023-07-25 211309](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/StudyNotion/Screenshot3.png)
+<details>
+  <summary>More screenshots</summary>
+  
+![Screenshot 2023-07-25 211451](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/StudyNotion/Screenshot2.png)
+![image](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/StudyNotion/Screenshot4.png)
+</details>
+
+***
+
 ## Assignment Details
 
 ### Dashboard:
